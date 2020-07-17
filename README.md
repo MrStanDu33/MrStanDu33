@@ -15,8 +15,10 @@
   </p>
 </p><br/><br/>
 <p>
-  🎶Now playing ...🎶<br/>
-  <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  🎶Now playing ...🎶 <em>(powered by <a href="https://github.com/MrStanDu33/spotify-informer">spotify-explorer</a>)</em><br/>
+  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a>
 </p>
 
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
