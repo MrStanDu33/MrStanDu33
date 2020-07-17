@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/discord/595235640044552223?label=Discord%20Tech%20%3A"/>
   <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
   <img src="https://img.shields.io/badge/Back End-Laravel-f55247"/>
-  <img src="https://img.shields.io/badge/Linux-Debian-a80030"/>
+  <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
 </p>
 <br/><br/>
 
