@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Back End-Laravel-f55247"/>
   <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
 </p>
-<p align="left">
+
+<p>
   🎶Now playing ...🎶<br/>
   <img height="75" src="https://spotify-informer.daniels-roth-stan.fr/api"/>
 </p>
