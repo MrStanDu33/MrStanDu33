@@ -36,6 +36,6 @@
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
-Langages utilisés ces 30 derniers jours :<br/>
-<img src="https://wakatime.com/share/@mrstandu33/7df31eea-b41b-4f62-a910-493802b9a3de.svg" height="400"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
