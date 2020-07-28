@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/discord/595235640044552223?style=flat-square&label=Discord%20Tech%20%3A"/><br/>
     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual Studio Code-23A9F2?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
