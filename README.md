@@ -4,7 +4,7 @@
     <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
     <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square"/></a>
     <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/twitch/status/MrStanDu33?style=flat-square&label=Status%20Twitch%20%3A"/></a>
-    <img src="https://img.shields.io/discord/595235640044552223?style=flat-square&label=Discord%20Tech%20%3A"/><br/>
+    <img src="https://img.shields.io/discord/595235640044552223?style=flat-square&label=Discord%20%3A"/><br/>
     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
