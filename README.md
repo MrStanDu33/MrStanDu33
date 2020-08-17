@@ -58,21 +58,21 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-359-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-357-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 351 Contributions in year 2020
+> 🏆 351 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 18 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
@@ -81,7 +81,7 @@
 🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.64% 
@@ -95,31 +95,31 @@ Sunday       71 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Paris
+⌚︎ Time zone: Europe/Paris
 
-💬 Languages: 
+💬 Programming Languages: 
 PHP                      1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   34.11% 
 Other                    1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   26.68% 
 JSON                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
 HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
 Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  4 hrs 15 mins       ██████████████████░░░░░░░   73.48% 
 Zsh                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61% 
 Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Linux                    4 hrs 24 mins       ███████████████████░░░░░░   75.94% 
 Mac                      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
 Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
 
 ```
 
-**I mostly code in PHP** 
+**I Mostly Code in PHP** 
 
 ```text
 PHP                      10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
