@@ -44,7 +44,7 @@
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 <h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Stan</bold>. 21 ans, barbu et un amateur de code et de ☕.<br/>
+  🧔 Moi c'est <bold>Stan</bold>. 22 ans, barbu et un amateur de code et de ☕.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
   💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
   🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
