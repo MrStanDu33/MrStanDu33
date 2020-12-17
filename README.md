@@ -59,7 +59,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-241-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-218-blue)
 
 **🐱 My Github Data** 
 
@@ -71,7 +71,7 @@
  > 
 > 📜 19 Public Repositories 
  > 
-19 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
