@@ -59,7 +59,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **🐱 My Github Data** 
 
