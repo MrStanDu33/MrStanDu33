@@ -59,13 +59,13 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 113 Contributions in the Year 2021
  > 
-> 📦 2.5 MB Used in Github's Storage 
+> 📦 2.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -132,11 +132,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/MrStanDu33/MrStanDu33/master/charts/bar_graph.png) 
-
-
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 </details>
