@@ -59,7 +59,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 **🐱 My GitHub Data** 
 
@@ -130,6 +130,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 </details>
