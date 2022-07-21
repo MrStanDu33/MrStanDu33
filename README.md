@@ -54,10 +54,13 @@
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
 </p><br/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <details>
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
+
 **I'm an early 🐤**
 
 ```text
@@ -67,6 +70,7 @@
 🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
 
 ```
+
 📅 **I'm Most Productive on Wednesdays**
 
 ```text
@@ -79,7 +83,6 @@ Saturday     66 commits     ██░░░░░░░░░░░░░░░�
 Sunday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
 ```
-
 
 📊 **This week I spent my time on**
 
@@ -102,7 +105,6 @@ Linux                    14 hrs 15 mins      ███████████�
 Windows                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
 
 ```
-
 
 <!--END_SECTION:waka-->
 </details>
