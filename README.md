@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C987%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-285-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-302-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,8 +106,8 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               18 mins             ████████████░░░░░░░░░░░░░   49.84% 
-Other                    16 mins             ███████████░░░░░░░░░░░░░░   44.44% 
+JavaScript               18 mins             ████████████░░░░░░░░░░░░░   49.78% 
+Other                    16 mins             ███████████░░░░░░░░░░░░░░   44.51% 
 Vue.js                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
@@ -132,6 +132,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2022 00:02:44 UTC
+ Last Updated on 29/08/2022 00:02:40 UTC
 <!--END_SECTION:waka-->
 </details>
