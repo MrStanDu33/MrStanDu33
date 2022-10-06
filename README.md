@@ -61,9 +61,9 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C003%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C003%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-235-blue)
 
 **🐱 My GitHub Data** 
 
@@ -137,6 +137,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2022 00:03:59 UTC
+ Last Updated on 06/10/2022 00:04:31 UTC
 <!--END_SECTION:waka-->
 </details>
