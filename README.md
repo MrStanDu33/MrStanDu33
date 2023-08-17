@@ -61,19 +61,19 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C218%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C220%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-362-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-448-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2023
+> 🏆 110 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -104,14 +104,20 @@ Sunday                   1039 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    14 mins             █████████████████████████   100.00 % 
+Other                    1 hr 17 mins        █████████████████░░░░░░░░   66.41 % 
+JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+sh                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+SCSS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Chrome                   14 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 2 mins         █████████████░░░░░░░░░░░░   53.91 % 
+VS Code                  43 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
+Zsh                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 💻 Operating System: 
-Mac                      10 mins             ██████████████████░░░░░░░   71.00 % 
-Windows                  4 mins              ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Windows                  1 hr 2 mins         █████████████░░░░░░░░░░░░   53.91 % 
+WSL                      53 mins             ████████████░░░░░░░░░░░░░   46.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,6 +133,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2023 00:06:00 UTC
+ Last Updated on 17/08/2023 00:05:48 UTC
 <!--END_SECTION:waka-->
 </details>
