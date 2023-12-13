@@ -61,17 +61,19 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-438-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C298%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2023
+> 🏆 134 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -88,6 +90,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 00:05:38 UTC
+ Last Updated on 13/12/2023 00:05:34 UTC
 <!--END_SECTION:waka-->
 </details>
