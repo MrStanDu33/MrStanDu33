@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C346%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-397-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-363-blue)
 
 **🐱 My GitHub Data** 
 
@@ -133,6 +133,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2024 00:05:22 UTC
+ Last Updated on 23/02/2024 00:06:56 UTC
 <!--END_SECTION:waka-->
 </details>
