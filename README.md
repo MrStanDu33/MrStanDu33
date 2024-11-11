@@ -61,13 +61,15 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2024
+> 🏆 33 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +77,42 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+🌆 Daytime                15525 commits       ████████████░░░░░░░░░░░░░   49.70 % 
+🌃 Evening                11080 commits       █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌙 Night                  2306 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5420 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Tuesday                  5518 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Wednesday                6524 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Thursday                 4926 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Friday                   4199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 2348 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Sunday                   2305 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 00:07:00 UTC
+ Last Updated on 11/11/2024 00:06:42 UTC
 <!--END_SECTION:waka-->
 </details>
