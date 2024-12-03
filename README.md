@@ -61,13 +61,15 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2024
+> 🏆 34 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +77,42 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2444 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌆 Daytime                15963 commits       ████████████░░░░░░░░░░░░░   49.30 % 
+🌃 Evening                11500 commits       █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌙 Night                  2471 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5536 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Tuesday                  5683 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Wednesday                6786 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Thursday                 5161 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   4369 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Saturday                 2418 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Sunday                   2425 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               1 min               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 min               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 00:06:41 UTC
+ Last Updated on 03/12/2024 00:06:32 UTC
 <!--END_SECTION:waka-->
 </details>
