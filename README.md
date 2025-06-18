@@ -61,15 +61,13 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -104,13 +102,15 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-sh                       9 mins              █████████████████████████   100.00 % 
+sh                       26 mins             ████████████████████████░   97.46 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-Zsh                      9 mins              █████████████████████████   100.00 % 
+Zsh                      26 mins             ████████████████████████░   97.46 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-WSL                      9 mins              █████████████████████████   100.00 % 
+WSL                      27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 00:07:48 UTC
+ Last Updated on 18/06/2025 00:09:40 UTC
 <!--END_SECTION:waka-->
 </details>
