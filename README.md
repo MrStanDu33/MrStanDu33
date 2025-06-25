@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,15 +104,13 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-sh                       17 mins             ████████████████████████░   96.21 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      17 mins             ████████████████████████░   96.21 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 00:09:51 UTC
+ Last Updated on 25/06/2025 00:07:51 UTC
 <!--END_SECTION:waka-->
 </details>
