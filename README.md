@@ -63,11 +63,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C760%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-195-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -124,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2025 00:07:53 UTC
+ Last Updated on 15/09/2025 00:07:30 UTC
 <!--END_SECTION:waka-->
 </details>
