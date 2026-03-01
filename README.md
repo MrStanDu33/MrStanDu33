@@ -61,9 +61,9 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C886%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C886%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,17 +104,15 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 14 mins       ██████████████████░░░░░░░   71.92 % 
-Other                    1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Vue.js                   4 hrs 15 mins       █████████████████░░░░░░░░   69.97 % 
+Other                    1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 46 mins       ████████████████████████░   97.79 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Chrome                   6 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       ████████████████████████░   97.79 % 
-Mac                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,6 +128,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 00:09:00 UTC
+ Last Updated on 01/03/2026 00:07:33 UTC
 <!--END_SECTION:waka-->
 </details>
