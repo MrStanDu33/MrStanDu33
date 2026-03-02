@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C886%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,9 +104,9 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 15 mins       █████████████████░░░░░░░░   69.97 % 
-Other                    1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vue.js                   4 hrs 15 mins       █████████████████░░░░░░░░   69.96 % 
+Other                    1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.02 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
 Chrome                   6 hrs 5 mins        █████████████████████████   100.00 % 
@@ -128,6 +128,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 00:07:33 UTC
+ Last Updated on 02/03/2026 00:08:31 UTC
 <!--END_SECTION:waka-->
 </details>
