@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C979%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -104,18 +104,13 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 2 mins         ██████████████░░░░░░░░░░░   55.20 % 
-TypeScript               35 mins             ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ██████████████████████░░░   88.54 % 
-Asana                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,6 +126,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 00:30:19 UTC
+ Last Updated on 24/06/2026 00:25:14 UTC
 <!--END_SECTION:waka-->
 </details>
