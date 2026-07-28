@@ -61,9 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C006%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2029%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -121,6 +123,12 @@ Notion                   38 mins             ██░░░░░░░░░�
 Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,6 +142,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 01:34:31 UTC
+ Last Updated on 28/07/2026 01:22:07 UTC
 <!--END_SECTION:waka-->
 </details>
