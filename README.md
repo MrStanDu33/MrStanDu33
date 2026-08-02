@@ -61,7 +61,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2029%20mins-blue?style=flat)
 
@@ -106,20 +106,19 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ███████████████░░░░░░░░░░   58.23 % 
-Vue                      56 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Image (svg)              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    1 hr 50 mins        ██████████████░░░░░░░░░░░   57.60 % 
+Vue                      1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Image (svg)              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.17 % 
-Notion                   59 mins             ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Asana                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Terminal                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Figma                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+VS Code                  1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.75 % 
+Notion                   1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
+Asana                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Figma                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,6 +140,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 01:30:49 UTC
+ Last Updated on 02/08/2026 01:28:16 UTC
 <!--END_SECTION:waka-->
 </details>
