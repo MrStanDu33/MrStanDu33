@@ -61,11 +61,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2029%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -79,57 +75,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3489 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-🌆 Daytime                19904 commits       ████████████░░░░░░░░░░░░░   46.78 % 
-🌃 Evening                15235 commits       █████████░░░░░░░░░░░░░░░░   35.80 % 
-🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  7171 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                9166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Thursday                 7265 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Friday                   5881 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 3034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Sunday                   3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    3 hrs 15 mins       ███████████████░░░░░░░░░░   61.52 % 
-Vue                      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-sh                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Image (svg)              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-🔥 Editors: 
-Notion                   1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-VS Code                  1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Asana                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Terminal                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Zsh                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-
-💻 Operating System: 
-Mac                      4 hrs 52 mins       ███████████████████████░░   92.06 % 
-WSL                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,6 +88,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:21:35 UTC
+ Last Updated on 07/08/2026 02:05:43 UTC
 <!--END_SECTION:waka-->
 </details>
