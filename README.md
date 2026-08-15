@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,18 +106,18 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 17 mins       ███████████████████████░░   90.75 % 
-Image (svg)              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    5 hrs 17 mins       ██████████████████████░░░   89.64 % 
+Vue                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Image (svg)              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-Terminal                 2 hrs 2 mins        ████████████████████░░░░░   81.15 % 
-Asana                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Figma                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Terminal                 4 hrs 49 mins       ████████████████████░░░░░   81.71 % 
+VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Asana                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Figma                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,6 +139,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 00:58:29 UTC
+ Last Updated on 15/08/2026 00:36:16 UTC
 <!--END_SECTION:waka-->
 </details>
