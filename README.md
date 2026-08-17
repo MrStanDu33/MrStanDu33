@@ -65,7 +65,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,27 +106,27 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    5 hrs 41 mins       ██████████████████████░░░   86.70 % 
-Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Image (svg)              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    5 hrs 51 mins       ██████████████████████░░░   87.05 % 
+Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Image (svg)              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Terminal                 4 hrs 53 mins       ███████████████████░░░░░░   74.50 % 
-Asana                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Figma                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Terminal                 4 hrs 59 mins       ███████████████████░░░░░░   74.16 % 
+Asana                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Figma                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 Operating System: 
-Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (3.26%)
+⏱ AI Coding Time: 12 mins (3.18%)
 
 ✍️ 107 lines written by AI, 34 lines written by hand (75.89% AI-written)
 
@@ -158,6 +158,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 00:36:37 UTC
+ Last Updated on 17/08/2026 00:33:00 UTC
 <!--END_SECTION:waka-->
 </details>
