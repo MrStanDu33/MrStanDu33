@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,43 +106,43 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.51 % 
-Vue                      1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-TypeScript               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    1 hr 57 mins        ████████████░░░░░░░░░░░░░   48.14 % 
+Vue                      1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+TypeScript               44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Claude Code              1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Asana                    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Notion                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-VS Code                  39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Terminal                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Claude Code              1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Asana                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Terminal                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Notion                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+VS Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (40.79%)
+⏱ AI Coding Time: 1 hr 49 mins (44.77%)
 
-✍️ 259 lines written by AI, 37 lines written by hand (87.5% AI-written)
+✍️ 780 lines written by AI, 13 lines written by hand (98.36% AI-written)
 
-🔤 2,165,362 Input Tokens, 150,519 Output Tokens
+🔤 2,089,419 Input Tokens, 173,078 Output Tokens
 
-💵 $12.39 Estimated AI Cost This Week
+💵 $14.45 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 48 AI Prompts
+🧠 8 AI Sessions, 62 AI Prompts
 
-Sonnet                   264 lines           █████████████████████████   100.00 % 
+Sonnet                   788 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.5% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 28.26% of changed lines were hand-edited
+🤖 AI-Driven — 98.36% of written lines came from AI
+📄 Detailed Prompter — average 1,212 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 3.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,6 +158,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 01:15:56 UTC
+ Last Updated on 28/08/2026 02:36:10 UTC
 <!--END_SECTION:waka-->
 </details>
