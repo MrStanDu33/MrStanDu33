@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C282%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,43 +106,43 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ████████████░░░░░░░░░░░░░   49.04 % 
-TypeScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Vue                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Other                    2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.61 % 
+TypeScript               1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Vue                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Claude Code              1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   38.07 % 
-Asana                    55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-VS Code                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Terminal                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Notion                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Claude Code              3 hrs               █████████████░░░░░░░░░░░░   52.17 % 
+VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Asana                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Notion                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Terminal                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (44.67%)
+⏱ AI Coding Time: 3 hrs 45 mins (65.1%)
 
-✍️ 639 lines written by AI, 6 lines written by hand (99.07% AI-written)
+✍️ 2,576 lines written by AI, 58 lines written by hand (97.8% AI-written)
 
-🔤 2,685,890 Input Tokens, 176,514 Output Tokens
+🔤 3,780,257 Input Tokens, 440,688 Output Tokens
 
-💵 $18.94 Estimated AI Cost This Week
+💵 $59.71 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 50 AI Prompts
+🧠 7 AI Sessions, 78 AI Prompts
 
-Sonnet                   700 lines           █████████████████████████   100.00 % 
+Sonnet                   2,683 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.07% of written lines came from AI
-📚 Verbose Prompter — average 1,898 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.37% of changed lines were hand-edited
+🤖 AI-Driven — 97.8% of written lines came from AI
+📚 Verbose Prompter — average 1,558 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 3.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,6 +158,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 00:11:32 UTC
+ Last Updated on 10/09/2026 00:12:53 UTC
 <!--END_SECTION:waka-->
 </details>
