@@ -61,9 +61,9 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C296%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue?style=flat)
 
@@ -106,45 +106,46 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Other                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Vue                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+TypeScript               2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Vue                      1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 1 min         █████████████████░░░░░░░░   68.43 % 
-Notion                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Asana                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Claude Code              5 hrs               ████████████████░░░░░░░░░   62.58 % 
+Asana                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+VS Code                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Notion                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       ██████████████░░░░░░░░░░░   55.19 % 
-WSL                      3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
+Mac                      4 hrs 3 mins        █████████████░░░░░░░░░░░░   50.65 % 
+WSL                      3 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs (79.63%)
+⏱ AI Coding Time: 5 hrs 54 mins (73.83%)
 
-✍️ 8,400 lines written by AI, 136 lines written by hand (98.41% AI-written)
+✍️ 8,254 lines written by AI, 135 lines written by hand (98.39% AI-written)
 
-🔤 3,202,647 Input Tokens, 653,312 Output Tokens
+🔤 1,638,051 Input Tokens, 531,382 Output Tokens
 
-💵 $86.83 Estimated AI Cost This Week
+💵 $68.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 121 AI Prompts
+🧠 11 AI Sessions, 104 AI Prompts
 
-Sonnet                   8,734 lines         █████████████████████████   100.00 % 
+Sonnet                   8,548 lines         █████████████████████████   99.73 % 
+Opus                     23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.41% of written lines came from AI
-📚 Verbose Prompter — average 3,492 characters per prompt
+🤖 AI-Driven — 98.39% of written lines came from AI
+📚 Verbose Prompter — average 3,625 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.46% of changed lines were hand-edited
+🚀 High AI Trust — 2.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -160,6 +161,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 00:11:24 UTC
+ Last Updated on 26/09/2026 00:10:44 UTC
 <!--END_SECTION:waka-->
 </details>
