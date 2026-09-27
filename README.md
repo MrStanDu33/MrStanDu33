@@ -61,7 +61,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
 
@@ -106,28 +106,28 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-Vue                      1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TypeScript               2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.68 % 
+Vue                      1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-Claude Code              5 hrs               ████████████████░░░░░░░░░   62.58 % 
-Asana                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-VS Code                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Notion                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Claude Code              5 hrs               ████████████████░░░░░░░░░   65.61 % 
+VS Code                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Asana                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Notion                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Mac                      4 hrs 3 mins        █████████████░░░░░░░░░░░░   50.65 % 
-WSL                      3 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.35 % 
+WSL                      3 hrs 56 mins       █████████████░░░░░░░░░░░░   51.73 % 
+Mac                      3 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (73.83%)
+⏱ AI Coding Time: 5 hrs 54 mins (77.4%)
 
 ✍️ 8,254 lines written by AI, 135 lines written by hand (98.39% AI-written)
 
@@ -161,6 +161,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 00:10:44 UTC
+ Last Updated on 27/09/2026 00:10:16 UTC
 <!--END_SECTION:waka-->
 </details>
