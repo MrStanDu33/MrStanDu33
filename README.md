@@ -106,46 +106,45 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
-Vue                      1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+TypeScript               1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.32 % 
+Other                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.33 % 
+Vue                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 25 mins       ████████████████░░░░░░░░░   64.93 % 
-VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Asana                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Notion                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Zsh                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Claude Code              1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.49 % 
+Asana                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Notion                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Terminal                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       ██████████████░░░░░░░░░░░   54.00 % 
-WSL                      3 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.00 % 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 18 mins (77.82%)
+⏱ AI Coding Time: 2 hrs 18 mins (62.5%)
 
-✍️ 6,747 lines written by AI, 75 lines written by hand (98.9% AI-written)
+✍️ 2,527 lines written by AI, 4 lines written by hand (99.84% AI-written)
 
-🔤 1,466,826 Input Tokens, 492,776 Output Tokens
+🔤 877,865 Input Tokens, 227,222 Output Tokens
 
-💵 $64.80 Estimated AI Cost This Week
+💵 $28.94 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 100 AI Prompts
+🧠 7 AI Sessions, 50 AI Prompts
 
-Sonnet                   7,041 lines         █████████████████████████   99.67 % 
-Opus                     23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Sonnet                   2,606 lines         █████████████████████████   99.13 % 
+Opus                     23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.9% of written lines came from AI
-📚 Verbose Prompter — average 3,757 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 1.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 7,260 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,6 +160,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 00:10:19 UTC
+ Last Updated on 29/09/2026 00:14:27 UTC
 <!--END_SECTION:waka-->
 </details>
