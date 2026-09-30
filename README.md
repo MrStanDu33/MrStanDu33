@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C298%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,45 +106,45 @@ Sunday                   3481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.32 % 
-Other                    1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Vue                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other                    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
+TypeScript               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Vue                      49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-Claude Code              1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.49 % 
-Asana                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Notion                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Terminal                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Claude Code              1 hr 38 mins        ███████████░░░░░░░░░░░░░░   44.01 % 
+Asana                    53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Notion                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Terminal                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (62.5%)
+⏱ AI Coding Time: 2 hrs 1 min (54.72%)
 
-✍️ 2,527 lines written by AI, 4 lines written by hand (99.84% AI-written)
+✍️ 2,070 lines written by AI, 4 lines written by hand (99.81% AI-written)
 
-🔤 877,865 Input Tokens, 227,222 Output Tokens
+🔤 1,057,652 Input Tokens, 243,638 Output Tokens
 
-💵 $28.94 Estimated AI Cost This Week
+💵 $31.77 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 34 AI Prompts
 
-Sonnet                   2,606 lines         █████████████████████████   99.13 % 
-Opus                     23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Sonnet                   1,764 lines         ████████████████████░░░░░   80.47 % 
+Opus                     428 lines           █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 7,260 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -160,6 +160,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 00:14:27 UTC
+ Last Updated on 30/09/2026 00:11:22 UTC
 <!--END_SECTION:waka-->
 </details>
