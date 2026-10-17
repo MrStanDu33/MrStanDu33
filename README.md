@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C324%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C327%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3472 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌆 Daytime                19838 commits       ████████████░░░░░░░░░░░░░   46.82 % 
-🌃 Evening                15160 commits       █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  3898 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+🌞 Morning                3495 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+🌆 Daytime                19926 commits       ████████████░░░░░░░░░░░░░   46.78 % 
+🌃 Evening                15244 commits       █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  3931 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6543 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Tuesday                  7148 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                9119 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Thursday                 7218 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   5847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 3024 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Sunday                   3469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Monday                   6566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  7181 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Wednesday                9172 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Thursday                 7265 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   5881 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Saturday                 3038 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Sunday                   3493 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 ```
 
 
@@ -106,44 +106,44 @@ Sunday                   3469 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-TypeScript               5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Markdown                 4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Vue                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-JSON                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+TypeScript               6 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Markdown                 4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Vue                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JSON                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-GoogleChromeBeta         13 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.29 % 
-Claude Code              9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Slack                    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-VS Code                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Notion                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Claude Code              10 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   39.70 % 
+GoogleChromeBeta         10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.03 % 
+Slack                    2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Zsh                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Mac                      29 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 3 mins (40.31%)
+⏱ AI Coding Time: 13 hrs 11 mins (47.88%)
 
-✍️ 11,543 lines written by AI, 2,415 lines written by hand (82.7% AI-written)
+✍️ 12,578 lines written by AI, 2,477 lines written by hand (83.55% AI-written)
 
-🔤 13,460,457 Input Tokens, 1,806,285 Output Tokens
+🔤 11,572,866 Input Tokens, 2,024,974 Output Tokens
 
-💵 $238.85 Estimated AI Cost This Week
+💵 $240.12 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 99 AI Prompts
+🧠 21 AI Sessions, 112 AI Prompts
 
-Opus                     11,567 lines        █████████████████████████   100.00 % 
+Opus                     12,981 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.7% of written lines came from AI
-📄 Detailed Prompter — average 1,052 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.74% of changed lines were hand-edited
+🤖 AI-Driven — 83.55% of written lines came from AI
+📄 Detailed Prompter — average 965 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,6 +159,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 00:11:35 UTC
+ Last Updated on 17/10/2026 00:09:38 UTC
 <!--END_SECTION:waka-->
 </details>
