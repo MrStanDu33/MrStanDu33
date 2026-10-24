@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,44 +106,43 @@ Sunday                   3493 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
-Other                    1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Vue                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-sh                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Vue                      2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
+Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+sh                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 25 mins       █████████████░░░░░░░░░░░░   53.66 % 
-Notion                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-VS Code                  59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Zsh                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-GoogleChromeBeta         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Claude Code              3 hrs 3 mins        █████████████░░░░░░░░░░░░   53.43 % 
+Notion                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+VS Code                  51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Zsh                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+GoogleChromeBeta         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 💻 Operating System: 
-Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 7 mins (64.71%)
+⏱ AI Coding Time: 3 hrs 44 mins (65.36%)
 
-✍️ 1,422 lines written by AI, 86 lines written by hand (94.3% AI-written)
+✍️ 468 lines written by AI, 47 lines written by hand (90.87% AI-written)
 
-🔤 3,321,852 Input Tokens, 509,852 Output Tokens
+🔤 4,220,140 Input Tokens, 394,861 Output Tokens
 
-💵 $61.52 Estimated AI Cost This Week
+💵 $59.39 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 87 AI Prompts
+🧠 17 AI Sessions, 78 AI Prompts
 
-Opus                     1,962 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     651 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.3% of written lines came from AI
-📄 Detailed Prompter — average 852 characters per prompt
+🤖 AI-Driven — 90.87% of written lines came from AI
+📄 Detailed Prompter — average 790 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.94% of changed lines were hand-edited
+🚀 High AI Trust — 19.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,6 +158,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 00:11:24 UTC
+ Last Updated on 24/10/2026 00:10:02 UTC
 <!--END_SECTION:waka-->
 </details>
