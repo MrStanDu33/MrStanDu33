@@ -61,11 +61,11 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,43 +106,43 @@ Sunday                   3493 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
-Other                    1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-sh                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Vue                      2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Other                    1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 7 mins        █████████████░░░░░░░░░░░░   53.28 % 
-Notion                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-VS Code                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-GoogleChromeBeta         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Claude Code              3 hrs 47 mins       ████████████░░░░░░░░░░░░░   48.30 % 
+GoogleChromeBeta         1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+VS Code                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Notion                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Zsh                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (64.92%)
+⏱ AI Coding Time: 4 hrs 36 mins (58.72%)
 
-✍️ 502 lines written by AI, 47 lines written by hand (91.44% AI-written)
+✍️ 746 lines written by AI, 48 lines written by hand (93.95% AI-written)
 
-🔤 4,834,490 Input Tokens, 400,134 Output Tokens
+🔤 5,464,560 Input Tokens, 456,638 Output Tokens
 
-💵 $63.09 Estimated AI Cost This Week
+💵 $71.22 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 72 AI Prompts
+🧠 20 AI Sessions, 93 AI Prompts
 
-Opus                     685 lines           █████████████████████████   100.00 % 
+Opus                     936 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.44% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.51% of changed lines were hand-edited
+🤖 AI-Driven — 93.95% of written lines came from AI
+📝 Concise Prompter — average 496 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 13.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,6 +158,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 00:11:15 UTC
+ Last Updated on 26/10/2026 00:10:11 UTC
 <!--END_SECTION:waka-->
 </details>
